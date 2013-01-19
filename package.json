@@ -1,0 +1,20 @@
+{
+    "name": "nodenut",
+    "preferGloblal": "false",
+    "version": "0.1.0",
+    "author": "Joseph Hajduk <joseph@solidys.com>",
+    "description": "Abstraction for accessing NUT (Network UPS Tools) Server",
+    "main": "./lib/nodenut.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/josephhajduk/nodenut.git"
+    },
+    "keywords": [
+        "nut",
+        "ups"
+    ],
+    "license": "MIT",
+    "engines": {
+        "node": ">=0.8"
+    }
+}
